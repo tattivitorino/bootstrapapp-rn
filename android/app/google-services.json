@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "645793776425",
+    "firebase_url": "https://academind-rn.firebaseio.com",
+    "project_id": "academind-rn",
+    "storage_bucket": "academind-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645793776425:android:9eef11177bfb2646c46d38",
+        "android_client_info": {
+          "package_name": "br.com.tattivitorino.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645793776425-d11a9tlr0bv28780af3e49j5bq2brj2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_--aWasJVP9d97aZUMjBMY42nEFXIVh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645793776425-d11a9tlr0bv28780af3e49j5bq2brj2p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645793776425-ms5kjl5i9mnqufknfct7ldv1ob6g8q0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tattivitorino.bootstrapapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645793776425:android:b4fb7b8adc6a77c8c46d38",
+        "android_client_info": {
+          "package_name": "com.tattivitorino.bootstrapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645793776425-d11a9tlr0bv28780af3e49j5bq2brj2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_--aWasJVP9d97aZUMjBMY42nEFXIVh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645793776425-d11a9tlr0bv28780af3e49j5bq2brj2p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645793776425-ms5kjl5i9mnqufknfct7ldv1ob6g8q0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tattivitorino.bootstrapapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

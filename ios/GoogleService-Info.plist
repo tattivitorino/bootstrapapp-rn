@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645793776425-ms5kjl5i9mnqufknfct7ldv1ob6g8q0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645793776425-ms5kjl5i9mnqufknfct7ldv1ob6g8q0b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNglJJjeGqutBBvG__WLy_SA6wvnpefbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645793776425</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tattivitorino.bootstrapapp</string>
+	<key>PROJECT_ID</key>
+	<string>academind-rn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>academind-rn.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645793776425:ios:222e67eb7d9d01afc46d38</string>
+	<key>DATABASE_URL</key>
+	<string>https://academind-rn.firebaseio.com</string>
+</dict>
+</plist>

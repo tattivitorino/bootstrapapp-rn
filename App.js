@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View } from 'react-native';
 
 import firebase from '@react-native-firebase/app';
+import '@react-native-firebase/crashlytics';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -10,7 +11,12 @@ const instructions = Platform.select({
 
 export default class App extends Component {
   componentDidMount() {
-    console.log('FIREBASE APP', firebase.app().name)
+    console.log('FIREBASE APP', firebase.app().name);
+
+    setTimeout(() => {
+      //firebase.crashlytics().log('Testing a crash');
+      //firebase.crashlytics().crash();
+    }, 2000)
   }
   render() {
     return (

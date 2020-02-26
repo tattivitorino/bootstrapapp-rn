@@ -10,7 +10,7 @@ const instructions = Platform.select({
 
 export default class App extends Component {
   componentDidMount() {
-    console.log(firebase.app().name)
+    console.log('FIREBASE APP', firebase.app().name)
   }
   render() {
     return (

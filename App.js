@@ -10,6 +10,7 @@ const instructions = Platform.select({
 });
 
 export default class App extends Component {
+
   componentDidMount() {
     console.log('FIREBASE APP', firebase.app().name);
 
@@ -18,6 +19,7 @@ export default class App extends Component {
       //firebase.crashlytics().crash();
     }, 2000)
   }
+
   render() {
     return (
       <View style={styles.container}>
